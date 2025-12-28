@@ -1,10 +1,11 @@
 # About
 
-Hi, I'm **Aditya Mandal**, also known as **@NulledFacedDev**.
+Hi, I'm **Aditya Mandal** <br>
+I'm a self-taught **Full-Stack Developer** and current college student with over a year of hands-on experience in modern web application and website development. I specialize in: **Next.js, React, TypeScript, Supabase(SQL), and Tailwind CSS**.
 
-I am a self-taught **Full-Stack Developer** and current college student with over a year of hands-on experience in modern web application and website development. I specialize in building robust, high-performance solutions, leveraging my primary stack: **Next.js, React, TypeScript, Supabase, and Tailwind CSS**.
-
-I am currently actively looking to contribute to projects while also developing my personal projects, like [CopyChan](https://github.com/aditya-wuw/Copy-Chan) and a tool to help myself learn languages and study, Koneko AI. I am passionate about digital creation and open to new opportunities and collaborations. Feel free to reach me out 🙌
+I'm currently actively looking to contribute to projects while also developing my personal projects, like [CopyChan](https://github.com/aditya-wuw/Copy-Chan) an Open-source Windows like Clipboard manager and Koneko AI, a tool to help myself learn languages and study. I am passionate about digital creation and open to new opportunities and collaborations. Feel free to reach me out 🙌
+<br>
+I love exploring new tech and currently exploring game dev and other domains related to it
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/GenzaGenza) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nullfaceddevbusiness@gmail.com) 
