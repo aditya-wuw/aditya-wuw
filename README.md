@@ -4,6 +4,8 @@ Hi, I'm **Aditya Mandal** <br>
 I'm a self-taught **SDE** and and a college student. I specialize in: **Next.js, React, TypeScript, Supabase(SQL), and Tailwind CSS**.
 I also develop tools that I often use and make changes depending on my needs, like [CopyChan](https://github.com/aditya-wuw/Copy-Chan) an Open-source Windows like Clipboard manager and Koneko AI, a tool to help myself study. I'm open to new opportunities and collaborations. Feel free to reach me out 🙌
 <br>
+
+
 Currently pivoting towards entrepreneurship and business related to game development , 3D modeling and planning to start a company in the future if situations are feasible
 
 ## 🌐 Socials:
