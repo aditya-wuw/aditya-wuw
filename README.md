@@ -1,5 +1,5 @@
 # About
-Hi, I'm **Aditya Mandal** <br>
+Hi, I'm **Adi** <br>
 I'm a self-taught **Developer** and and a Final year college student. I specialize in: **Next.js, React, TypeScript, Supabase(SQL), and Tailwind CSS (ServerLess Stack)**.
 check out some of my cool projects, like [CopyChan](https://github.com/aditya-wuw/Copy-Chan) an Open-source Windows like Clipboard manager. I'm open to new opportunities and collaborations. Feel free to reach me out 🙌
 <br>
