@@ -4,9 +4,6 @@ I'm a self-taught **Developer** and and a Final year college student. I speciali
 check out some of my cool projects, like [CopyChan](https://github.com/aditya-wuw/Copy-Chan) an Open-source Windows like Clipboard manager. I'm open to new opportunities and collaborations. Feel free to reach me out 🙌
 <br>
 
-
-Currently pivoting towards entrepreneurship and business related to game development , 3D modeling and planning to start a company in the future if situations are feasible
-
 ## 🌐 Socials:
  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nullfaceddevbusiness@gmail.com) 
 
